@@ -1,0 +1,13 @@
+C:\Users\R480\source\repos\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe.config
+C:\Users\R480\source\repos\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe
+C:\Users\R480\source\repos\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.pdb
+C:\Users\R480\source\repos\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csprojAssemblyReference.cache
+C:\Users\R480\source\repos\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.QuanLi.resources
+C:\Users\R480\source\repos\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Properties.Resources.resources
+C:\Users\R480\source\repos\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.GenerateResource.cache
+C:\Users\R480\source\repos\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\R480\source\repos\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.exe
+C:\Users\R480\source\repos\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.pdb
+C:\Users\R480\source\repos\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Form2.resources
+C:\Users\R480\source\repos\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Form3.resources
+C:\Users\R480\source\repos\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Form4.resources
